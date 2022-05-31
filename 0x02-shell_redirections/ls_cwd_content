@@ -1,0 +1,16 @@
+total 23
+drwxr-xr-x 1 User 197121   0 May 31 15:04 .
+drwxr-xr-x 1 User 197121   0 May 31 13:19 ..
+-rwxr-xr-x 1 User 197121  32 May 31 13:27 0-hello_world
+-rwxr-xr-x 1 User 197121  32 May 31 13:48 1-confused_smiley
+-rwxr-xr-x 1 User 197121  48 May 31 14:15 10-no_more_js
+-rwxr-xr-x 1 User 197121  28 May 31 14:20 2-hellofile
+-rwxr-xr-x 1 User 197121  39 May 31 14:26 3-twofiles
+-rwxr-xr-x 1 User 197121  34 May 31 14:32 4-lastlines
+-rwxr-xr-x 1 User 197121  35 May 31 14:43 5-firstlines
+-rwxr-xr-x 1 User 197121  51 May 31 14:55 6-third_line
+-rwxr-xr-x 1 User 197121  36 May 31 15:03 8-cwd_state
+-rw-r--r-- 1 User 197121   4 May 31 13:32 README.md
+-rwxr-xr-x 1 User 197121  48 May 31 14:12 echo
+-rw-r--r-- 1 User 197121 804 May 31 14:52 iacta
+-rw-r--r-- 1 User 197121   0 May 31 15:04 ls_cwd_content
